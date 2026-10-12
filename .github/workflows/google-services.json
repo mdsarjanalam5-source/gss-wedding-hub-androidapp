@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215177782562",
+    "project_id": "gss-wedding-hub",
+    "storage_bucket": "gss-wedding-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215177782562:android:38dfe4b145a263a267317b",
+        "android_client_info": {
+          "package_name": "com.gsswedding.hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDiUbEbgzIZtLNg95hg5JpFRLOG9wdOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
